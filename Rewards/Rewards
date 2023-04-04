@@ -1,5 +1,6 @@
-	{"Wooden Chest",0.6},
+{"Wooden Chest",0.6},
 	{"Silver Chest",0.6},
 	{"Gold Chest",0.5},
 	{"500 Gold",0.7},
 	{"50 Gems",0.3},
+	{"Season Emote",-1}, -- The current pass's exclusive emote
