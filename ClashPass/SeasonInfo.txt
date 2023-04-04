@@ -1,0 +1,5 @@
+{"Wooden Chest", "Silver Chest",4},
+	{"Silver Chest", "Gold Chest",4},
+	{"Silver Chest", "Gold Chest",4},
+	{"Gold Chest", "Gold Chest",4},
+	{"50 Gems", "Wild Card",4},
